@@ -12,7 +12,7 @@ COMMAND N
 DELAY 500
 
 REM Enter Recipient Address
-STRING "recipient address here"
+STRING "wcaleniemulti26@gmail.com"
 DELAY 500
 TAB
 STRING "subject line here"
